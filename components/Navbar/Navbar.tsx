@@ -30,6 +30,9 @@ export function Navbar() {
             <Link href="/sell" className={styles.link}>
               판매
             </Link>
+            <Link href="/drop" className={styles.link}>
+              받기
+            </Link>
           </div>
         </div>
 
